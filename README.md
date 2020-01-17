@@ -30,3 +30,7 @@ yarn serve
 - [MDX](https://mdxjs.com/)
 - [React-static](https://react-static.js.org/)
 - [Recharts](http://recharts.org/en-US)
+
+## License
+
+MIT License
