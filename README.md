@@ -1,4 +1,4 @@
-# React-MDX-Rechart
+# React-MDX-Recharts
 
 Example of using MDX with React-Static and Recharts.
 
