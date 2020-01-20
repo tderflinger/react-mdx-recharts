@@ -6,6 +6,10 @@ MDX is a great way to combine Markdown (.md) with
 React components. In that way it is possible to use
 any React component within Markdown.
 
+You can find more explanation about React-mdx-recharts on my blog:
+
+https://www.tderflinger.com/en/creating-interactive-markdown-mdx
+
 ## Install
 
 ```bash
